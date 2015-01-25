@@ -23,7 +23,7 @@
     "require": {
         "php": ">=5.3.3",
         "doctrine/doctrine-module": "0.8.0",
-        "doctrine/migrations": "dev-master" 
+        "doctrine/migrations": "1.0.x-dev" 
     },
     "autoload": {
         "psr-0": {
